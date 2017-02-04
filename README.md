@@ -3,9 +3,8 @@ Article on algebraic approaches to CSP with applications to commutative idempote
 
 This repository is currently empty, but the article related to this project is now available from https://arxiv.org/abs/1611.02867
 
-    @article{DBLP:journals/corr/BergmanD16,
-      author    = {Clifford Bergman and
-                   William DeMeo},
+    @article{Bergman-DeMeo-2016,
+      author    = {Clifford Bergman and William DeMeo},
       title     = {Universal Algebraic Methods for Constraint Satisfaction Problems},
       journal   = {CoRR},
       volume    = {abs/1611.02867},
